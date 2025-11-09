@@ -1,0 +1,2 @@
+Este es un texto de prueba escrito desde git bash
+Esta es una segunda l[inea de prueba
