@@ -1,0 +1,5 @@
+Esta es [B[C una lista con los coman[3~[3~[3[1;5C[1;5C[1;5C[1;5C[algunos comandos para manipular archivos de texto con git:
+1. touch> c[C[C[C: crear archivo sin abrirlo
+2. nano: crear archivo y abrirlo
+3. cat > cre[B[C[C: crear archivo y editarlo en git linea por linea
+4. Hay otro comando, que es git ls-files: sirve para ver una lista de los archivos del folder
